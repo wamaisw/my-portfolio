@@ -64,3 +64,13 @@ text-align: center;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifS;
 
 }
+
+ul
+{
+text-align: center;
+list-style-type: none;
+}
+.projects
+{
+  background-color: gray;
+}
