@@ -15,3 +15,9 @@ showing all projects i have completed and deployed.
 
  Still under development
 
+## Screenshots
+
+/home/steve/Documents/moringa-school-projects/my-portfolio/Screenshot from 2019-10-18 15-02-32.png
+/home/steve/Documents/moringa-school-projects/my-portfolio/Screenshot from 2019-10-18 15-02-41.png
+
+
