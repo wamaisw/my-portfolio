@@ -8,8 +8,8 @@ showing all projects i have completed and deployed.
 
 ##  Technologies Used
 
- -CSS
- -HTML
+ - CSS
+ - HTML
 
  ## Bugs
 
