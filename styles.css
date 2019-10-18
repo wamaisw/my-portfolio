@@ -76,3 +76,11 @@ font-style: italic;
   background-color: gray;
   font-family: 'Courier New', Courier, monospace;
 }
+
+.footer
+{
+padding: 0px 0px;
+width: 100%;
+text-align: center;
+background-color: cornsilk;
+} 
